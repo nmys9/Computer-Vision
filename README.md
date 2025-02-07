@@ -1,4 +1,4 @@
-## Computer-Vision
+# Computer-Vision
 
 # AI-Enhanced Image Stitching and Edge Detection
 
